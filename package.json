@@ -1,7 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
-  "homepage": "https://Mohamed-84Taher.github.io/react_test_deploy",
+  "homepage": "https://Mohamed-84Taher.github.io/deploy-test",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
